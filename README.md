@@ -8,9 +8,11 @@
 [<img align="left" alt="gak | LinkedIn" width="22px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gak | Twitter" width="22px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gak | dev" width="22px" height="25px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
+[<img align="left" alt="gak | StackOverflow" width="22px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
 [linkedin]: https://linkedin.com/in/gauhar-ayub-khan-8202b516b
 [twitter]: https://twitter.com/gak__19
 [devto]: https://dev.to/gauharayub
+[stackoverflow]: https://stackoverflow.com/users/10321617/gauhar?tab=profile
