@@ -12,7 +12,23 @@
 
 <br />
 
+
 [linkedin]: https://linkedin.com/in/gauhar-ayub-khan-8202b516b
 [twitter]: https://twitter.com/gak__19
 [devto]: https://dev.to/gauharayub
 [stackoverflow]: https://stackoverflow.com/users/10321617/gauhar?tab=profile
+
+
+### Languages and Tools:
+
+
+[<img align="left" alt="gak | C++" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
+[<img align="left" alt="gak | Python" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />]
+[<img align="left" alt="gak | JavaScript" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]
+[<img align="left" alt="gak | Nodejs" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />]
+[<img align="left" alt="gak | Nodejs" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />]
+[<img align="left" alt="gak | Nodejs" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]
+
+
+<br />
+
