@@ -3,17 +3,17 @@
 ## I'm a Student, Developer and a Competitive Programmer
 
 
-<!--- ### Languages and Tools:
+### Languages and Tools:
 
   
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />]
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />]
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />]
-[<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
-<br /> --->
+<br />
 
 ### Connect with me:
 
