@@ -1,4 +1,4 @@
-### Hi there, I'm Gauhar 👋
+## Hi there, I'm Gauhar 👋
 
 
 ### Languages and Tools:
