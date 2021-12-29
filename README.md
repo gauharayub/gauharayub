@@ -1,7 +1,5 @@
 ### Hi there, I'm Gauhar 👋
 
-## I'm a Student, Developer and a Competitive Programmer
-
 
 ### Languages and Tools:
 
