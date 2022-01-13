@@ -27,5 +27,5 @@
 ### Github Stats:
 
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauharayub&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&include_all_commits=true&count_private=true&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauharayub&show_icons=true&hide=issues&include_all_commits=true&count_private=true&&theme=material-palenight">
 </p>
