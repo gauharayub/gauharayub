@@ -13,6 +13,13 @@
     <img alt="React" src="https://img.shields.io/badge/-React-008080?style=flat-square&logo=react&logoColor=white">
 </p>
 
+### Github Stats:
+
+<p align="left">
+    <img alt = "GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauharayub&show_icons=true&hide=issues&include_all_commits=true&count_private=true&&theme=nord">
+</p>
+
+
 ### Connect with me:
 
 
@@ -24,8 +31,4 @@
 [![HashNode Badge](https://img.shields.io/badge/-Hashnode-blue?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@gak)](https://hashnode.com/@gak)
 
 
-### Github Stats:
 
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauharayub&show_icons=true&hide=issues&include_all_commits=true&count_private=true&&theme=nord">
-</p>
